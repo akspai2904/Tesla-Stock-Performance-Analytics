@@ -10,7 +10,7 @@ The analysis demonstrates the use of Tableau for financial data visualization, t
 
 ## Dashboard Preview
 
-![Tesla Stock Performance Analytics Dashboard](Tesla%20Stock%20Dashboard.jpeg)
+![Tesla Stock Performance Analytics Dashboard](Tesla%20Stock%20Dashboard.png)
 
 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/akshata.pai/viz/TeslaStockPerformanceAnalytics/TeslaStockDashboard)**
 
